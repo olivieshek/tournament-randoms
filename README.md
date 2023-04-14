@@ -1,2 +1,2 @@
-Можно считать продолжением olymp-problems:
+Можно считать продолжением olymp_problems:
 https://github.com/olivieshek/olymp_problems
