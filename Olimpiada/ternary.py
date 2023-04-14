@@ -1,0 +1,1 @@
+print(0 if int(input()) % 3 else 1)
